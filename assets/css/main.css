@@ -42923,7 +42923,7 @@ span.highlight::after {
 }
 
 .bg-gray-light {
-  background-color: #F5F5F7 !important;
+  /* background-color: #F5F5F7 !important; */
 }
 
 /* BORDER COLOR
