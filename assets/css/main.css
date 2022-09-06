@@ -14663,8 +14663,8 @@ textarea.form-control-lg {
 }
 
 .py-60 {
-  padding-top: 60px !important;
-  padding-bottom: 60px !important;
+  padding-top: 20px !important;
+  padding-bottom: 10px !important;
 }
 
 .py-65 {
@@ -42257,6 +42257,7 @@ body.has-topbar .navbar-top.navbar-opaque {
 }
 .swiper .swiper-container {
   overflow: hidden;
+  /* width: 600px; */
 }
 .swiper .swiper-button-prev,
 .swiper .swiper-button-next {
@@ -43474,6 +43475,7 @@ code.docs-card-gist .blob-wrapper {
   transition: transform 150ms linear;
   transition: transform 150ms linear, -webkit-transform 150ms linear;
   will-change: transform;
+
 }
 .industry::before {
   content: "";
