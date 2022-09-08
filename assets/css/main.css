@@ -43824,6 +43824,7 @@ code.docs-card-gist .blob-wrapper {
 }
 .member .member-body {
   padding: 32px 0 0;
+  text-align:center;
 }
 .member .member-title {
   display: block;
